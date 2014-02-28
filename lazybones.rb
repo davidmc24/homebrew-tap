@@ -2,8 +2,8 @@ require 'formula'
 
 class Lazybones < Formula
   homepage 'https://github.com/pledbrook/lazybones'
-  url 'http://dl.bintray.com/pledbrook/lazybones-templates/lazybones-0.5.zip'
-  sha1 'c4ff553149e7b3dfde4ca8e6c9117d318320f879'
+  url 'http://dl.bintray.com/pledbrook/lazybones-templates/lazybones-0.6.zip'
+  sha1 'da7aa335ef582c971ec649f189bdedb2adba8c13'
 
   def install
     bin.install 'bin/lazybones'
